@@ -1,5 +1,5 @@
-#include "DHT.h"
-#include "U8g2lib.h"
+#include "DHT.h" //https://github.com/markruys/arduino-DHT
+#include "U8g2lib.h" //https://github.com/olikraus/u8g2
 #include "Wire.h"
 
 #define DHTPIN 2
